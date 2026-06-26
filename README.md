@@ -1,18 +1,5 @@
 # Simple Linear Regression with PyTorch
 
-This notebook demonstrates a basic implementation of Linear Regression using PyTorch. It covers the entire machine learning workflow from data preprocessing to model evaluation.
-
-## Table of Contents
-
-- [0. Import Libraries](#0-import-libraries)
-- [1. Preprocess Data](#1-preprocess-data)
-- [2. Build Linear Regression Model](#2-build-linear-regression-model)
-- [3. Pick Loss Function and Optimizer](#3-pick-loss-function-and-optimizer)
-- [4. Build Training Loop](#4-build-training-loop)
-- [5. Evaluate Model](#5-evaluate-model)
-- [6. Test on New Data Point](#6-test-on-new-data-point)
-- [7. Save Model](#7-save-model)
-
 ## Project Overview
 
 This project aims to build and train a simple linear regression model to predict exam scores based on hours studied. The model is built using PyTorch, a popular deep learning framework.
