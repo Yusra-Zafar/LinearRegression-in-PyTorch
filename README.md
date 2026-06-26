@@ -30,4 +30,6 @@ After training, the model achieves:
 -   **Training MSE**: 0.3444
 -   **Test MSE**: 0.5185
 
+  ![Visualizations](visualizations.png "Visualizations")
+
 The plots illustrate how the linear model fits the training and test data, providing a visual understanding of its performance.
